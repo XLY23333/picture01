@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="129.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-65.000000 -53.000000 129.000000 110.000000" height="110.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -30.321251,44.630646 L -52.065380,9.923645" class="id_A id_C"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.375660,48.434700 L 45.272285,29.523237" class="id_A id_E"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -14.733740,-33.131332 L -25.113970,38.733307"
+              class="id_B id_A" stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -6.315463,-35.876129 L 47.892815,19.602581" class="id_B id_E"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3.596765,-40.627277 L 46.451385,-28.246761"
+              class="id_B id_D" stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.525364,-36.110943 L -49.834663,-8.033594"
+              class="id_B id_C" stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -54.719959,5.686523 L -32.975830,40.393524" class="id_C id_A"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -53.445263,-4.574757 L -24.135967,-32.652107"
+              class="id_C id_B" stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 51.265182,-24.015232 L -46.864273,-2.465411"
+              class="id_D id_C" stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 57.407497,-18.788761 L 55.435287,16.770416" class="id_D id_E"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 55.158401,21.762743 L 57.130611,-13.796433" class="id_E id_D"
+              stroke-opacity="1.0" stroke="#a99c88"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_A id_C"
+                  points="-54.719959,5.686523 -49.946819,8.596355 -54.183941,11.250935"
+                  stroke="none"/>
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_A id_E"
+                  points="50.076897,28.139154 45.964329,31.925545 44.580242,27.120930"
+                  stroke="none"/>
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_B id_A"
+                  points="-25.828758,43.681953 -27.588291,38.375912 -22.639648,39.090702"
+                  stroke="none"/>
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_B id_E"
+                  points="51.387161,23.178825 46.104694,21.349756 49.680935,17.855406"
+                  stroke="none"/>
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_B id_D"
+                  points="51.305084,-27.046091 45.851051,-25.819912 47.051720,-30.673611"
+                  stroke="none"/>
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_B id_C"
+                  points="-53.445263,-4.574756 -51.564083,-9.838895 -48.105244,-6.228293"
+                  stroke="none"/>
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_C id_A"
+                  points="-30.321251,44.630646 -35.094391,41.720814 -30.857269,39.066235"
+                  stroke="none"/>
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_C id_B"
+                  points="-20.525364,-36.110943 -22.406548,-30.846806 -25.865387,-34.457409"
+                  stroke="none"/>
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_D id_C"
+                  points="-51.747898,-1.392938 -47.400509,-4.907225 -46.328037,-0.023598"
+                  stroke="none"/>
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_D id_E"
+                  points="55.158401,21.762743 52.939125,16.631971 57.931450,16.908861"
+                  stroke="none"/>
+        <polyline fill="#a99c88" fill-opacity="1.0" class="id_E id_D"
+                  points="57.407501,-18.788761 59.626774,-13.657990 54.634449,-13.934877"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#a99c88" r="6.1333337" cx="-26.78181"
+                class="id_A" cy="50.280144" stroke="#766d5f"
+                stroke-opacity="1.0" stroke-width="1.0666667"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="6.1333337" cx="-58.2594"
+                class="id_C" cy="0.03702736" stroke="#766d5f"
+                stroke-opacity="1.0" stroke-width="1.0666667"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="4.6" cx="54.88151"
+                class="id_E" cy="26.75507" stroke="#766d5f" stroke-opacity="1.0"
+                stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="9.2" cx="-13.304162"
+                class="id_B" cy="-43.028618" stroke="#766d5f"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="6.1333337" cx="57.776684"
+                class="id_D" cy="-25.445198" stroke="#766d5f"
+                stroke-opacity="1.0" stroke-width="1.0666667"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="11" x="-26.78181" y="52.24865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_A">
+            A
+        </text>
+        <text font-size="11" x="-58.2594" y="2.0735672" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_C">
+            C
+        </text>
+        <text font-size="8" x="54.88151" y="28.18671" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_E">
+            E
+        </text>
+        <text font-size="16" x="-13.304162" y="-40.165337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_B">
+            B
+        </text>
+        <text font-size="11" x="57.776684" y="-23.476692" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_D">
+            D
+        </text>
+    </g>
+</svg>
